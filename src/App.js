@@ -8,13 +8,6 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-
-        <footer className="text-center">
-          Coded By Breanna Beltran{" "}
-          <a href="https://github.com/bbeltran22/dictionary-project">
-            Open source
-          </a>
-        </footer>
       </div>
     </div>
   );
