@@ -4,8 +4,8 @@ import Meaning from "./Meaning";
 export default function Result(props) {
   if (props.result) {
     return (
-      <div className="Result">
-        <h2>{props.result.word}</h2>
+      <div className="Result mt-3 text-capitalize">
+        <h1>{props.result.word}</h1>
         {props.result.meanings.map(function (meaning, index) {
           return (
             <div key={index}>
