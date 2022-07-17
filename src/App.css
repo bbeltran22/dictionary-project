@@ -3,10 +3,13 @@ h1 {
   font-family: "Vast Shadow", cursive;
 }
 
-h3,
-p {
+h3 {
   color: #5e6769;
   font-family: "Edu SA Beginner", cursive;
+}
+
+ul {
+  list-style: none;
 }
 
 footer {
