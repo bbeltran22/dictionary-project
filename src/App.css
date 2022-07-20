@@ -1,11 +1,14 @@
 h1 {
   color: #c9c2be;
   font-family: "Vast Shadow", cursive;
+  text-align: center;
 }
 
+a,
 h3 {
   color: #5e6769;
   font-family: "Edu SA Beginner", cursive;
+  text-decoration: none;
 }
 
 ul {
@@ -18,7 +21,6 @@ footer {
 }
 
 .App {
-  text-align: center;
   background-color: #709191;
   border-radius: 10px;
   padding: 20px;
@@ -26,4 +28,12 @@ footer {
 
 .Dictionary {
   font-family: "Edu SA Beginner", cursive;
+}
+
+.Dictionary input {
+  text-align: center;
+}
+
+.Phonetics {
+  font-size: 18px;
 }
