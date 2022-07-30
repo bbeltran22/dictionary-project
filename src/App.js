@@ -6,7 +6,7 @@ export default function App() {
     <div className="App mt-3">
       <div className="container">
         <main>
-          <Dictionary defaultKeyword="home" />
+          <Dictionary defaultKeyword="mountain" />
         </main>
       </div>
     </div>
